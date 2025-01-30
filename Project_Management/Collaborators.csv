@@ -1,0 +1,21 @@
+﻿collaborator_id,name,role,email,phone,hire_date,picture,team_manager_id
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Manager,garzaanthony@example.org,538.990.8386,2025-01-04,https://robohash.org/bdd640fb-0667-4ad1-9c80-317fa3b1799d.png?set=set1,
+01a9e71f-de8a-474b-8f36-d58b47378190,Caitlin Henderson,Manager,eric51@example.org,(615)759-4078x1618,2024-11-28,https://robohash.org/01a9e71f-de8a-474b-8f36-d58b47378190.png?set=set1,
+0bbb2599-11ce-4dd2-b45e-d1f03139d32c,Patricia Galloway,Analyst,michellejames@example.com,+1-952-855-3419x2832,2022-04-18,https://robohash.org/0bbb2599-11ce-4dd2-b45e-d1f03139d32c.png?set=set1,bdd640fb-0667-4ad1-9c80-317fa3b1799d
+b02b61c4-a3d7-4628-ace6-6fa2fd5166e6,Melinda Cameron,Developer,perezantonio@example.com,(541)639-5376x7242,2024-12-21,https://robohash.org/b02b61c4-a3d7-4628-ace6-6fa2fd5166e6.png?set=set1,bdd640fb-0667-4ad1-9c80-317fa3b1799d
+663f1c97-9562-49f0-a5d7-b8756dadd6c7,Zachary Taylor,Manager,ddavis@example.org,(626)291-6697,2020-12-21,https://robohash.org/663f1c97-9562-49f0-a5d7-b8756dadd6c7.png?set=set1,
+c0398710-8976-4334-a281-7efdae849217,Martin Rodriguez,QA,amoore@example.net,001-248-728-1489x3252,2024-02-27,https://robohash.org/c0398710-8976-4334-a281-7efdae849217.png?set=set1,bdd640fb-0667-4ad1-9c80-317fa3b1799d
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Sandra Parker,QA,allenashley@example.org,671-882-2782,2021-10-20,https://robohash.org/5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82.png?set=set1,b02b61c4-a3d7-4628-ace6-6fa2fd5166e6
+badcc32a-c159-4f53-8a0f-4efbedcd465e,Michelle Ross,Manager,samuel87@example.org,531.250.9839,2020-08-08,https://robohash.org/badcc32a-c159-4f53-8a0f-4efbedcd465e.png?set=set1,
+3a9bedd4-0f12-49e0-a18f-f6b6b535106e,Andre Rivera,Manager,joshuawashington@example.net,(399)873-7631,2023-01-05,https://robohash.org/3a9bedd4-0f12-49e0-a18f-f6b6b535106e.png?set=set1,
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611,Megan Joyce,Manager,brownjessica@example.org,933.587.2624,2020-08-22,https://robohash.org/dd2467ac-778e-4db3-a93d-ffbc6c6fa611.png?set=set1,
+db20a56e-dc81-4fe7-8eda-8bbb71710434,Amber Kidd,Developer,novaksara@example.org,(267)873-6026,2022-04-03,https://robohash.org/db20a56e-dc81-4fe7-8eda-8bbb71710434.png?set=set1,b02b61c4-a3d7-4628-ace6-6fa2fd5166e6
+747b6dba-c8fe-4ccd-88b8-d9c6ed3049cf,Michael Cross,QA,smoore@example.org,4982050097,2024-04-26,https://robohash.org/747b6dba-c8fe-4ccd-88b8-d9c6ed3049cf.png?set=set1,dd2467ac-778e-4db3-a93d-ffbc6c6fa611
+118a9d29-2f92-4996-99f1-95d014822f53,Megan Young,Manager,davidashley@example.net,+1-509-616-9985x435,2023-05-14,https://robohash.org/118a9d29-2f92-4996-99f1-95d014822f53.png?set=set1,
+4ccc9bc2-a53f-4a28-abf3-e3fc21813d25,Timothy Walls,QA,ellisyolanda@example.org,783-684-2513,2021-05-05,https://robohash.org/4ccc9bc2-a53f-4a28-abf3-e3fc21813d25.png?set=set1,b02b61c4-a3d7-4628-ace6-6fa2fd5166e6
+b41b3143-8b10-450c-9570-4f32702cdd20,William Roman,QA,contrerasangela@example.net,524-711-8244,2021-09-24,https://robohash.org/b41b3143-8b10-450c-9570-4f32702cdd20.png?set=set1,5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82
+439472e6-da58-4e8a-a25d-6b29afffcfd2,Danielle Odonnell,Developer,davisrodney@example.com,2053242786,2020-08-21,https://robohash.org/439472e6-da58-4e8a-a25d-6b29afffcfd2.png?set=set1,badcc32a-c159-4f53-8a0f-4efbedcd465e
+e767dcea-b0e6-4969-a213-42b0f1eedba3,Andrew Wood,QA,russellwilliams@example.com,4535315869,2021-05-19,https://robohash.org/e767dcea-b0e6-4969-a213-42b0f1eedba3.png?set=set1,3a9bedd4-0f12-49e0-a18f-f6b6b535106e
+2d534dd0-cf8e-4c5a-8cc5-6569f9e8a369,Allison Doyle,Manager,kimberly63@example.com,(616)507-3375,2021-11-23,https://robohash.org/2d534dd0-cf8e-4c5a-8cc5-6569f9e8a369.png?set=set1,
+6601ddd0-3170-4437-a8f7-ef5a060edf5b,Sean Rasmussen,Developer,michael86@example.net,+1-350-814-2940,2022-12-10,https://robohash.org/6601ddd0-3170-4437-a8f7-ef5a060edf5b.png?set=set1,4ccc9bc2-a53f-4a28-abf3-e3fc21813d25
+6fb78271-504d-481f-8953-5b63ba81edd9,Kayla Cruz,Analyst,jonathanfletcher@example.org,783.856.1595x14846,2022-07-07,https://robohash.org/6fb78271-504d-481f-8953-5b63ba81edd9.png?set=set1,3a9bedd4-0f12-49e0-a18f-f6b6b535106e
